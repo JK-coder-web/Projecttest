@@ -1,0 +1,11 @@
+# ninja log v5
+1	743	7060180866552705	CMakeFiles/BinarySearchIter.dir/main.cpp.obj	1d135a0a7da83445
+746	924	7060180868330848	BinarySearchIter.exe	bbe22848c9b8f30f
+7	728	7060191938177723	CMakeFiles/BinarySearchIter.dir/main.cpp.obj	1d135a0a7da83445
+730	1014	7060191940972765	BinarySearchIter.exe	bbe22848c9b8f30f
+12	678	7060193812640455	CMakeFiles/BinarySearchIter.dir/main.cpp.obj	1d135a0a7da83445
+680	870	7060193814478959	BinarySearchIter.exe	bbe22848c9b8f30f
+7	699	7060812028992060	CMakeFiles/BinarySearchIter.dir/main.cpp.obj	1d135a0a7da83445
+701	984	7060812031777217	BinarySearchIter.exe	bbe22848c9b8f30f
+6	674	7060814775108170	CMakeFiles/BinarySearchIter.dir/main.cpp.obj	1d135a0a7da83445
+676	878	7060814777047954	BinarySearchIter.exe	bbe22848c9b8f30f
